@@ -15,14 +15,14 @@ title: Susumu Ota
 - AI 研究エージェント
   - 太田 晋, "論文紹介: MLGym: A New Framework and Benchmark for Advancing AI Research Agents", 第109回汎用人工知能輪読会, 2025-02-28, ([発表スライド](https://speakerdeck.com/s_ota/mlgym-20250228))
 - 強化学習
-  - 太田 晋, "Sutton輪読会: 第16章 Applications and Case Studies", Sutton輪読会, 2020-09-25, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch16-20200925))
+  - 太田 晋, "Reinforcement Learning: An Introduction, 第16章 Applications and Case Studies", Sutton輪読会, 2020-09-25, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch16-20200925))
   - 太田 晋, "論文紹介: Planning to Explore via Self-Supervised World Models", 第69回汎用人工知能輪読会, 2020-08-26, ([発表スライド](https://speakerdeck.com/s_ota/plan2explore-20200826))
   - 太田 晋, "分散型強化学習手法の最近の動向と分散計算フレームワークRayによる実装の試み", Do2dle AI&機械学習しよう！ 勉強会 第9回自然言語処理企画, 2020-06-20, ([発表スライド](https://speakerdeck.com/s_ota/distributed-rl-20200620)), ([コードリポジトリ](https://github.com/susumuota/distributed_experience_replay)), ([イベントページ](https://do2dle.connpass.com/event/178184/))
   - 太田 晋, "モデルベース強化学習の復習とMuZeroの解説", 強化学習コロキウム, 2020-03-18, ([発表スライド](https://speakerdeck.com/s_ota/muzero-20200318))
-  - 太田 晋, "Sutton輪読会: 第12章 Eligibility Traces", Sutton輪読会, 2019-09-10, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch12-20190910))
-  - 太田 晋, "Sutton輪読会: 第8章 Planning and Learning with Tabular Methods", Sutton輪読会, 2019-06-25, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch8-20190625))
-  - 太田 晋, "Sutton輪読会: 第5章 Monte Carlo Methods", Sutton輪読会, 2019-03-29, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch5-20190329))
-  - 太田 晋, "Sutton輪読会: 第1章 Introduction", Sutton輪読会, 2019-01-23, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch1-20190123))
+  - 太田 晋, "Reinforcement Learning: An Introduction, 第12章 Eligibility Traces", Sutton輪読会, 2019-09-10, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch12-20190910))
+  - 太田 晋, "Reinforcement Learning: An Introduction, 第8章 Planning and Learning with Tabular Methods", Sutton輪読会, 2019-06-25, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch8-20190625))
+  - 太田 晋, "Reinforcement Learning: An Introduction, 第5章 Monte Carlo Methods", Sutton輪読会, 2019-03-29, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch5-20190329))
+  - 太田 晋, "Reinforcement Learning: An Introduction, 第1章 Introduction", Sutton輪読会, 2019-01-23, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch1-20190123))
   - 太田 晋, "脳のようにエビデンスを蓄積する強化学習モデルの紹介と視覚タスクへの応用", 第30回 強化学習アーキテクチャ勉強会, 2018-12-18, ([コードリポジトリ](https://github.com/susumuota/gym-modeestimation)), ([イベントページ](https://rlarch.connpass.com/event/112220/))
 - AI アライメント
   - 太田 晋, "論文紹介: AI Alignment: A Comprehensive Survey", 第99回汎用人工知能輪読会, 2024-01-19, ([発表スライド](https://speakerdeck.com/s_ota/ai-alignment-survey-20240119))
