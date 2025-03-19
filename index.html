@@ -1,11 +1,137 @@
-<html>
-  <head>
-    <title>Susumu OTA</title>
-  </head>
-  <body>
-    <h1>Susumu OTA</h1>
-    <p>
-      nostr: npub1susumuq8u7v0sp2f5jl3wjuh8hpc3cqe2tc2j5h4gu7ze7z20asq2w0yu8
-    </p>
-  </body>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Susumu Ota</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="github-markdown.css" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Susumu Ota</h1>
+</header>
+<h2 id="学会研究会発表等">学会・研究会発表等</h2>
+<ul class="incremental">
+<li>合成データ生成
+<ul class="incremental">
+<li>太田 晋, “FinePersonas を用いた日本語指示データの合成”,
+言語処理学会第31回年次大会(NLP2025) 併設ワークショップ
+日本語言語資源の構築と利用性の向上(JLR2025), 2025-03-14 (<a
+href="https://jedworkshop.github.io/JLR2025/materials/a-2.pdf">発表スライド</a>)
+(<a
+href="https://github.com/susumuota/synth-persona">コードリポジトリ</a>)</li>
+<li>Susumu Ota, “Persona-Hub によるマルチターン指示データ合成”, 松尾研
+LLM コミュニティ 勉強会シリーズ#5, 2025-02-02, (<a
+href="https://github.com/susumuota/synthetic-data-hands-on/blob/main/notebooks/synth_persona.ipynb">ハンズオン用ノートブック</a>),
+(<a
+href="https://www.youtube.com/watch?v=Gwyyn9_WZao&amp;t=350s">発表録画</a>)</li>
+<li>Susumu Ota, “Persona-Hub による合成データ生成”, 9/24 松尾研 LLM
+開発プロジェクト “Tanuki-8x8B” 開発成果報告会 Vol. 3, 2024-09-24, (<a
+href="https://www.docswell.com/s/matsuo-lab_llm/ZDNGR4-2024-9-24-Tanuki%E9%96%8B%E7%99%BA%E5%A0%B1%E5%91%8A%E4%BC%9A-vol3">発表スライド</a>),
+(<a
+href="https://www.youtube.com/watch?v=XAdc-OgLeOw">発表録画</a>)</li>
+</ul></li>
+<li>事前・事後学習データのスコア付け
+<ul class="incremental">
+<li>Susumu Ota, “Ask-LLM論文紹介: How to Train Data-Efficient LLMs”,
+松尾研 LLM 開発プロジェクト 勉強会 2024-03-17 (<a
+href="https://speakerdeck.com/s_ota/ask-llm-20240313">発表スライド</a>),
+(<a
+href="https://github.com/susumuota/nano-askllm">コードリポジトリ</a>)</li>
+</ul></li>
+<li>Iterative DPO
+<ul class="incremental">
+<li>Susumu Ota, “LLM-as-a-Judge と Iterative DPO
+によるプリファレンスデータ合成”, 松尾研 LLM コミュニティ
+勉強会シリーズ#5, 2025-02-02, (<a
+href="https://www.youtube.com/watch?v=Gwyyn9_WZao&amp;t=3533">発表録画</a>),
+(<a
+href="https://github.com/susumuota/synthetic-data-hands-on/blob/main/notebooks/synth_llm_judge.ipynb">ハンズオン用ノートブック</a>)</li>
+</ul></li>
+<li>強化学習
+<ul class="incremental">
+<li>太田 晋,
+“分散型強化学習手法の最近の動向と分散計算フレームワークRayによる実装の試み”,
+Do2dle AI&amp;機械学習しよう！ 勉強会 第9回自然言語処理企画, 2020-06-20,
+(<a
+href="https://www.slideshare.net/slideshow/distributed-rl-ota-20200622/236019028">発表スライド</a>),
+(<a
+href="https://github.com/susumuota/distributed_experience_replay">コードリポジトリ</a>),
+(<a
+href="https://do2dle.connpass.com/event/178184/">イベントページ</a>)</li>
+<li>太田 晋,
+“脳のようにエビデンスを蓄積する強化学習モデルの紹介と視覚タスクへの応用”,
+第30回 強化学習アーキテクチャ勉強会, 2018-12-18, (<a
+href="https://github.com/susumuota/gym-modeestimation">コードリポジトリ</a>),
+(<a
+href="https://rlarch.connpass.com/event/112220/">イベントページ</a>)</li>
+</ul></li>
+<li>AI 研究エージェント
+<ul class="incremental">
+<li>太田 晋, “論文紹介: MLGym: A New Framework and Benchmark for
+Advancing AI Research Agents”, 第109回汎用人工知能輪読会, 2025-02-28,
+(<a
+href="https://speakerdeck.com/s_ota/mlgym-20250228">発表スライド</a>)</li>
+</ul></li>
+<li>AI アライメント
+<ul class="incremental">
+<li>太田 晋, “論文紹介: AI Alignment: A Comprehensive Survey”,
+第99回汎用人工知能輪読会, 2024-01-19, (<a
+href="https://speakerdeck.com/s_ota/ai-alignment-survey-20240119">発表スライド</a>)</li>
+</ul></li>
+</ul>
+<h2 id="コンペ受賞等">コンペ受賞等</h2>
+<ul class="incremental">
+<li>強化学習
+<ul class="incremental">
+<li>The Animal-AI Olympics 2019, カテゴリ7賞, 2019-11-02, (<a
+href="https://sites.google.com/csah.cam.ac.uk/animalai/animal-ai-olympics">コンペページ</a>),
+(<a
+href="https://eval.ai/web/challenges/challenge-page/396/leaderboard/1107">リーダーボード</a>),
+(<a href="https://wba-initiative.org/3662/">記事</a>)</li>
+<li>第4回全脳アーキテクチャハッカソン, 最優秀賞, 2018-10-08, (<a
+href="https://github.com/susumuota/oculomotor/blob/master/20181007_1_wba_hackathon_2018_ota.pdf">発表スライド</a>),
+(<a
+href="https://github.com/susumuota/oculomotor">コードリポジトリ(エージェント)</a>),
+(<a
+href="https://github.com/susumuota/oculoenv">コードリポジトリ(環境・タスク)</a>),
+(<a href="https://wba-initiative.org/3401/">記事</a>)</li>
+</ul></li>
+</ul>
+<h2 id="査読付き論文">査読付き論文</h2>
+<ul class="incremental">
+<li>Susumu Ota and Hideki Mima, “Machine Learning-based Syllabus
+Classification toward Automatic Organization of Issue-oriented
+Interdisciplinary Curricula”, Procedia - Social and Behavioral Sciences,
+27, 241–247, 2011. (<a
+href="https://www.sciencedirect.com/science/article/pii/S1877042811024311">PDF</a>)</li>
+<li>太田 晋, 美馬 秀樹,
+“課題志向別シラバス自動分類システムの設計と実装”, 自然言語処理, 16 (4),
+91-106, 2009. (<a
+href="https://www.jstage.jst.go.jp/article/jnlp/16/4/16_4_4_91/_article/-char/ja/">PDF</a>)</li>
+</ul>
+<h2 id="contact">Contact</h2>
+<ul class="incremental">
+<li><a href="https://github.com/susumuota">GitHub</a></li>
+<li><a href="https://x.com/susumuota">X</a></li>
+</ul>
+</body>
 </html>
