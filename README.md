@@ -15,6 +15,7 @@ title: Susumu Ota
 - AI 研究エージェント
   - 太田 晋, "論文紹介: MLGym: A New Framework and Benchmark for Advancing AI Research Agents", 第109回汎用人工知能輪読会, 2025-02-28, ([発表スライド](https://speakerdeck.com/s_ota/mlgym-20250228))
 - 強化学習
+  - 太田 晋, "論文紹介: Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs", 2025-03-31, ([発表スライド](https://speakerdeck.com/s_ota/cognitive-behaviors-reasoning-20250331))
   - 太田 晋, "Reinforcement Learning: An Introduction, 第16章 Applications and Case Studies", Sutton輪読会, 2020-09-25, ([発表スライド](https://speakerdeck.com/s_ota/sutton-rl-intro-ch16-20200925))
   - 太田 晋, "論文紹介: Planning to Explore via Self-Supervised World Models", 第69回汎用人工知能輪読会, 2020-08-26, ([発表スライド](https://speakerdeck.com/s_ota/plan2explore-20200826))
   - 太田 晋, "分散型強化学習手法の最近の動向と分散計算フレームワークRayによる実装の試み", Do2dle AI&機械学習しよう！ 勉強会 第9回自然言語処理企画, 2020-06-20, ([発表スライド](https://speakerdeck.com/s_ota/distributed-rl-20200620)), ([コードリポジトリ](https://github.com/susumuota/distributed_experience_replay)), ([イベントページ](https://do2dle.connpass.com/event/178184/))
